@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @erdodip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Peter
+- 👀 I’m interested in programming (low level, front-end, back-end), sysadmin, devops
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate on who enjoy teamwork and coding
+- 📫 How to reach me: just write to me, erdodip@gmail.com
 
 <!---
 erdodip/erdodip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
