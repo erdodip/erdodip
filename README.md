@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in programming, sysadmin, devops, ethical hacking
+- 👀 I’m interested in programming, sysadmin, devops
 - 🌱 I’m currently learning Ruby on Rails, C++
-- 💞️ I’m looking to collaborate on who enjoy teamwork and coding or system managment or ethical hacking
+- 💞️ I’m looking to collaborate on who enjoy teamwork and coding or system managment
 - 📫 How to reach me: just write to me -> erdodip@gmail.com
 
 <!---
