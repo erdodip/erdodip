@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in programming, sysadmin, devops and ethical hacking
+- 👀 I’m interested in Programming, System Administrating, DevOps and Ethical Hacking
 - 🌱 I’m currently learning Comptia Linux+ (XKO-004) and DevOps Bootcamp
-- 💞️ I’m looking to collaborate on who enjoy Teamwork and Ethical Hacking or Linux System Administrating or DevOps.
+- 💞️ I’m looking to collaborate on who enjoy Teamwork and Ethical Hacking or Linux System Administrating or DevOps
 - 📫 How to reach me: just write to me -> erdodip@gmail.com
 
 <!---
