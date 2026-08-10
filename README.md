@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in Programming, System Administrating, GameDev
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate...
+- 👀 I’m interested in Programming, System Administrating
 - 📫 How to reach me: just write a message -> erdodip@gmail.com
 
 <!---
